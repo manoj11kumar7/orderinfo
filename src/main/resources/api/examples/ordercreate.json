@@ -1,0 +1,35 @@
+{
+  "invoice": {
+    "Invoice": {
+      "orderNumber": "O-0006330002",
+      "totalProduct": "420.00",
+      "totalProduct_afterDiscount": "420.00",
+      "totalDiscount": "0.00",
+      "totalTax": "0.00",
+      "totalCouponDiscount": "0.00",
+      "totalEmptyAmount": "0.00",
+      "netInvoice": "420.00",
+      "deliveryCharges": "0.00",
+      "MOQFee": "0.00",
+      "status": {
+        "flag": "S"
+      },
+      "item": [
+        {
+          "product": "103029",
+          "desc": "20Z PT 24LS_SPRITE",
+          "qty": "10",
+          "basePrice": "42.00",
+          "itemPrice": "420.00",
+          "adjustments": [
+            {
+              "adjustment": "",
+              "amount": "0.00",
+              "desc": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
